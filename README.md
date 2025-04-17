@@ -28,7 +28,7 @@ This application allows users to browse a collection of recipes, view detailed i
 
 | Login Screen          | Home Screen           | Recipe Detail             |
 | :------------------ | :------------------ | :---------------------- |
-| ![Login Screen](images/login_screen.png) | ![Home Screen](images/home_screen.png) | ![Recipe Detail Screen](images/recipe_detail.png) |
+| ![Login Screen](images/login_screen.png) | ![Home Screen](images/home_screen.png) |  |
 | **Upload Recipe** | **My Recipes** | **Profile** |
 | ![Upload Recipe Screen](images/upload_recipe.png) | ![My Recipes Screen](images/my_recipes.png) | ![User Profile Screen](images/profile.png) |
 
