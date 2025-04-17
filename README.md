@@ -11,7 +11,7 @@ This application allows users to browse a collection of recipes, view detailed i
 ## Features
 
 * **User Authentication:** Secure Login and Registration using Firebase Authentication.
-* **Recipe Browsing:** View recipes on the home screen and by category.
+* **Recipe Browse:** View recipes on the home screen and by category.
 * **Recipe Details:** See full recipe information including ingredients, instructions, cooking time, and image.
 * **Recipe Upload:** Authenticated users can upload their own recipes with images.
 * **My Recipes:** Users can view, update, and delete their own uploaded recipes.
@@ -24,12 +24,13 @@ This application allows users to browse a collection of recipes, view detailed i
 
 *Add screenshots of your app here to showcase its features and UI.*
 
-*(Example)*
-| Login Screen        | Home Screen         | Recipe Detail       |
-| :------------------ | :------------------ | :------------------ |
-| *[Screenshot]* | *[Screenshot]* | *[Screenshot]* |
+*(You will need to replace the paths like `images/login_screen.png` with the actual paths to your image files after adding them to your repository. Consider creating an `images` or `screenshots` folder.)*
+
+| Login Screen          | Home Screen           | Recipe Detail             |
+| :------------------ | :------------------ | :---------------------- |
+| ![Login Screen](images/login_screen.png) | ![Home Screen](images/home_screen.png) | ![Recipe Detail Screen](images/recipe_detail.png) |
 | **Upload Recipe** | **My Recipes** | **Profile** |
-| *[Screenshot]* | *[Screenshot]* | *[Screenshot]* |
+| ![Upload Recipe Screen](images/upload_recipe.png) | ![My Recipes Screen](images/my_recipes.png) | ![User Profile Screen](images/profile.png) |
 
 ## Technologies Used
 
